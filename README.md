@@ -1,10 +1,17 @@
 ````md
 <p align="center">
-  <img src="assets/banner.svg" alt="banner" width="100%" style="max-width:1000px;" />
+  <img 
+    src="https://raw.githubusercontent.com/karthik2726/karthik2726/main/assets/banner.svg" 
+    alt="banner" 
+    width="100%" 
+    style="max-width:1000px;" 
+  />
 </p>
 
 <p align="center">
-  <img src="assets/typing.svg" alt="typing animation" height="65" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=14B8A6&size=35&center=true&vCenter=true&width=1000&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Agentic+AI+Builder;Open+Source+Enthusiast)](https://git.io/typing-svg)
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Karthik B</h1>
@@ -65,12 +72,14 @@ Building intelligent systems, modern web experiences, and AI-powered products.
 Name: Karthik B
 Location: Tamil Nadu, India
 Role: B.Tech AI & DS Student
+
 Focus:
   - Agentic AI
   - RAG Systems
   - Full Stack Development
   - AI Automation
   - Modern UI/UX
+
 Currently Building:
   - AI Research Platforms
   - Multi-Agent Systems
@@ -116,7 +125,7 @@ Currently Building:
 # 🧠 AI & Agentic Stack
 
 ```txt
-CrewAI • LangGraph • Dify • ChromaDB
+LangChain • CrewAI • LangGraph • Dify • ChromaDB
 FAISS • Pinecone • Ollama • OpenAI APIs • MCP
 FastAPI • LlamaIndex • Vector Databases • RAG
 ```
@@ -136,6 +145,16 @@ FastAPI • LlamaIndex • Vector Databases • RAG
 
 ---
 
+## 🛡️ SatyaAI
+
+> AI-Powered Government Work Verification System
+
+* Deepfake detection
+* Satellite cross-verification
+* Blockchain audit trails
+* Fraud prevention workflows
+
+---
 
 ## 💊 RakshaMeds
 
