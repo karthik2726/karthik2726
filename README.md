@@ -58,13 +58,13 @@
 
 ---
 
-## Kontakt & Social
+## Conatact & Social
 <details>
 <summary>Contact</summary>
 
-- Email: you@example.com  
+- Email: karthikb2728@gmail.com 
 - Twitter: [@your_twitter](https://twitter.com/your_twitter)  
-- Portfolio: https://your.site
+- Portfolio: https://karthikbportfolio.netlify.app/
 
 </details>
 
