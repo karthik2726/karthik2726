@@ -1,76 +1,205 @@
+````md
 <p align="center">
-  <!-- Banner: assets/banner.svg -->
-  <img src="assets/banner.svg" alt="banner" width="100%" style="max-width:960px;">
+  <img src="assets/banner.svg" alt="banner" width="100%" style="max-width:1000px;" />
 </p>
 
 <p align="center">
-  <!-- Animated typing (SVG): assets/typing.svg -->
-  <img src="assets/typing.svg" alt="typing" height="64">
+  <img src="assets/typing.svg" alt="typing animation" height="65" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Karthik B</h1>
+
+<h3 align="center">
+AI & Data Science Undergraduate • Full Stack Developer • Agentic AI Builder
+</h3>
+
 <p align="center">
-  <!-- Modern badges (customize username and services) -->
+Building intelligent systems, modern web experiences, and AI-powered products.
+</p>
+
+---
+
+<p align="center">
   <a href="https://github.com/karthik2726">
-    <img alt="Profile" src="https://img.shields.io/badge/-karthik2726-0ea5a4?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-karthik2726-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/your_twitter">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/your_twitter?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2">
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:you@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white">
+
+  <a href="mailto:karthikb2728@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://karthikbportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-14B8A6?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- GitHub widgets (images; no JS) -->
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=karthik2726&show_icons=true&theme=dark&hide_border=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik2726&layout=compact&theme=dark&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=karthik2726&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik2726&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=karthik2726&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ---
 
-## About me
-<details>
-<summary>Quick bio</summary>
+# 🚀 About Me
 
-- Designer & developer who loves clean UI, performance-first frontends, and developer experience.
-- Focus: dark-themed interfaces, micro-interactions, accessible components.
-- Currently experimenting with SVG-first animated UI (no JS) and optimized GitHub READMEs.
+```yaml
+Name: Karthik B
+Location: Tamil Nadu, India
+Role: B.Tech AI & DS Student
+Focus:
+  - Agentic AI
+  - RAG Systems
+  - Full Stack Development
+  - AI Automation
+  - Modern UI/UX
+Currently Building:
+  - AI Research Platforms
+  - Multi-Agent Systems
+  - Smart AI Dashboards
+````
 
-</details>
-
-## Featured Projects
-<details>
-<summary>Open Source & highlights</summary>
-
-- [Project One](https://github.com/owner/project-one) — A performant UI library (React + Web Components).  
-- [Project Two](https://github.com/owner/project-two) — Tiny SVG animation toolkit.
-- Use the badges above to link to your main projects or community links.
-
-</details>
-
-## What I use
-- Languages: TypeScript, Go, Python
-- UI: Tailwind, CSS Variables, SVG-first micro-interactions
-- CI / Infra: GitHub Actions, Vercel
-
----
-
-## Conatact & Social
-<details>
-<summary>Contact</summary>
-
-- Email: karthikb2728@gmail.com 
-- Twitter: [@your_twitter](https://twitter.com/your_twitter)  
-- Portfolio: https://karthikbportfolio.netlify.app/
-
-</details>
+* 🎓 AI & Data Science undergraduate passionate about building impactful AI systems
+* 🤖 Exploring **Agentic AI**, **RAG pipelines**, **LLM orchestration**, and **AI automation**
+* 🌐 Full stack developer focused on modern dark-themed interfaces & scalable architectures
+* ⚡ Love combining AI + design + developer experience
+* 🧠 Interested in AI startups, open-source ecosystems, and intelligent product engineering
 
 ---
 
-Notes:
-- SVGs are used for the banner and typing animation: tiny, scalable, and very fast to load.
-- Collapsible sections keep the README compact while letting readers expand details.
-- Widgets are images from well-known services (no client-side JS), keeping pages fast.
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,sql" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+</p>
+
+### AI / ML / Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,git,github,vscode,postman" />
+</p>
+
+---
+
+# 🧠 AI & Agentic Stack
+
+```txt
+CrewAI • LangGraph • Dify • ChromaDB
+FAISS • Pinecone • Ollama • OpenAI APIs • MCP
+FastAPI • LlamaIndex • Vector Databases • RAG
+```
+
+---
+
+# 🌟 Featured Projects
+
+## 🔬 ResearchIQ
+
+> Agentic Research Intelligence & Advanced RAG Platform
+
+* Multi-agent research analysis system
+* PDF ingestion + semantic retrieval
+* Automated research gap discovery
+* AI-generated project proposals & roadmaps
+
+---
+
+
+## 💊 RakshaMeds
+
+> Smart MERN Pharmacy Platform
+
+* JWT Authentication
+* Role-based Admin System
+* Payment Gateway Integration
+* Inventory & Order Management
+
+---
+
+## 🧾 Smart Tourist Safety Monitoring System
+
+> SIH Internal Top-50 Project
+
+* AI anomaly detection
+* Geo-fencing alerts
+* Blockchain-based digital ID
+* Emergency incident response system
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthik2726&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 Achievements
+
+* 🚀 Built multiple AI & Full Stack projects
+* 🧠 Exploring advanced Agentic AI systems
+* 🛠️ Daily AI tools explorer & community contributor
+* ⚡ Hackathon enthusiast & rapid prototype builder
+* 🌍 Interested in AI products with real-world impact
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:karthikb2728@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+
+  <a href="https://github.com/karthik2726">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+
+  <a href="https://karthikbportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karthik2726&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <i>"Building intelligent systems that blend AI, automation, and design."</i>
+</p>
+```
