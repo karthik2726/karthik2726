@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karthik2726/karthik2726/main/assets/banner.svg" alt="banner" width="100%" style="max-width:1000px;" />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=14B8A6&size=35&center=true&vCenter=true&width=1000&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Agentic+AI+Builder;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
