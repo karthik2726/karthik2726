@@ -31,9 +31,9 @@ Building intelligent systems, modern web experiences, and AI-powered products.
     <img src="https://img.shields.io/badge/GitHub-karthik2726-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+ <a href="https://www.linkedin.com/in/karthik27b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Karthik%20B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
   <a href="mailto:karthikb2728@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
