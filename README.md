@@ -1,71 +1,184 @@
+# Karthik B
+
+> **AI Engineer • Agentic AI Developer • Full Stack Engineer**
+
+```{=html}
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=14B8A6&size=35&center=true&vCenter=true&width=1000&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Agentic+AI+Builder;Open+Source+Enthusiast" alt="Typing SVG" />
-  </a>
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6E44FF&text=Karthik%20B&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%"/>`{=html}
+```{=html}
 </p>
-
-<h1 align="center">Hi 👋, I'm Karthik B</h1>
-
-<h3 align="center">
-AI & Data Science Undergraduate • Full Stack Developer • Agentic AI Builder
-</h3>
-
+```
+```{=html}
 <p align="center">
-Building intelligent systems, modern web experiences, and AI-powered products.
+```
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Undergraduate;AI+Engineer+%7C+Agentic+AI+Developer;Building+Production-Ready+LLM+Applications;RAG+%7C+LangChain+%7C+CrewAI+%7C+Full+Stack+AI;Always+Learning.+Always+Shipping."/>`{=html}
+```{=html}
 </p>
-
----
-
+```
+```{=html}
 <p align="center">
-  <a href="https://github.com/karthik2726">
-    <img src="https://img.shields.io/badge/GitHub-karthik2726-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+```
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://karthik2726.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik2726)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthik2726)
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+![Profile
+Views](https://komarev.com/ghpvc/?username=karthik2726&style=for-the-badge)
 
-  <a href="mailto:karthikb2728@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://karthikbportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-14B8A6?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=karthik2726&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik2726&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
+## About Me
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik2726&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🚀 About Me
-
-```yaml
-Name: Karthik B
-Location: Tamil Nadu, India
-Role: B.Tech AI & DS Student
-Focus:
+``` yaml
+name: Karthik B
+role: AI Engineer
+education: B.Tech AI & Data Science
+focus:
+  - LLM Applications
+  - Retrieval-Augmented Generation
   - Agentic AI
-  - RAG Systems
-  - Full Stack Development
-  - AI Automation
-  - Modern UI/UX
-Currently Building:
-  - AI Research Platforms
-  - Multi-Agent Systems
-  - Smart AI Dashboards
+  - Full Stack AI Products
+building:
+  - ResearchIQ
+  - Research Gap Discovery Agent
+  - MERN Applications
+learning:
+  - Advanced RAG
+  - LangGraph
+  - MCP
+  - MLOps
+```
+
+------------------------------------------------------------------------
+
+# AI Engineering Stack
+
+  Domain     Technologies
+  ---------- ----------------------------------------
+  LLMs       OpenAI, Gemini, Claude
+  RAG        LangChain, LlamaIndex, FAISS, ChromaDB
+  Agents     CrewAI, LangGraph
+  Backend    FastAPI, Flask, Node.js
+  Frontend   React, Next.js
+  Database   MongoDB, PostgreSQL, MySQL
+  Cloud      AWS, Docker, Firebase
+
+------------------------------------------------------------------------
+
+# Featured Projects
+
+## ResearchIQ
+
+Enterprise research intelligence platform using Agentic AI, semantic
+search and RAG.
+
+-   LangChain
+-   CrewAI
+-   ChromaDB
+-   FastAPI
+
+## Research Gap Discovery Agent
+
+AI-powered literature analysis and proposal generation.
+
+## College Administration Tracker
+
+Enterprise MERN ERP with JWT authentication and dashboards.
+
+## RakshaMeds
+
+Pharmacy management platform with secure authentication and payments.
+
+## Sign Language Detection
+
+Real-time OpenCV gesture recognition.
+
+------------------------------------------------------------------------
+
+# Tech Stack
+
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,react,nextjs,nodejs,express,fastapi,flask,mongodb,postgres,mysql,docker,aws,firebase,git,github,vscode,figma&perline=11"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# GitHub Analytics
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=karthik2726&show_icons=true&theme=tokyonight"/>`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik2726&layout=compact&theme=tokyonight"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://streak-stats.demolab.com?user=karthik2726&theme=tokyonight"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# Contribution Graph
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik2726&theme=tokyo-night"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# Current Focus
+
+``` yaml
+learning:
+  - Advanced RAG
+  - AI Agents
+  - LangGraph
+  - MCP
+building:
+  - ResearchIQ
+  - Agentic AI Systems
+exploring:
+  - Vector Databases
+  - MLOps
+open_to:
+  - AI Engineering Internships
+  - Open Source
+```
+
+------------------------------------------------------------------------
+
+# Connect
+
+-   Portfolio: https://karthik2726.github.io
+-   GitHub: https://github.com/karthik2726
+-   LinkedIn: https://linkedin.com/in/karthik2726
+
+------------------------------------------------------------------------
+
+> *"Building intelligent systems that solve real-world problems."*
+
+```{=html}
+<p align="center">
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=6E44FF"/>`{=html}
+```{=html}
+</p>
+```
